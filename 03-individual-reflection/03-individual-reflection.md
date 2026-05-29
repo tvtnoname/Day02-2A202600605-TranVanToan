@@ -9,7 +9,7 @@
 | Challenge | Đặt câu hỏi và phản biện về việc cập nhật siêu tham số thủ công | Nhóm nhận ra có thể giải quyết bằng script/WandB, loại bớt scope không cần AI |
 | Workflow | Tham gia vẽ current/future workflow và đề xuất ranh giới kiểm soát chất lượng | Xác định rõ boundary: AI chỉ hỗ trợ sinh note mapping, học viên vẫn phải chạy code để kiểm chứng |
 | Research | Tìm hiểu và so sánh các công cụ tương tự như NotebookLM, Cursor, Obsidian | Giúp nhóm thấy pattern của các sản phẩm tốt: AI chỉ draft, con người vẫn là owner review |
-| Rule / Workflow / Agent | Lập luận chọn phương án Workflow thay vì xây dựng hệ thống Agent phức tạp | Nhóm thống nhất được mức độ can thiệp AI phù hợp, giảm thiểu ruiu ro ảo tưởng |
+| Rule / Workflow / Agent | Lập luận chọn phương án Workflow thay vì xây dựng hệ thống Agent phức tạp | Nhóm thống nhất được mức độ can thiệp AI phù hợp, giảm thiểu rủi ro ảo tưởng |
 
 ## Bảng dùng AI trong reflection
 
@@ -23,9 +23,9 @@
 ## Bài học của Toàn
 
 - Một bài toán AI tốt bắt đầu từ một nỗi đau thực tế có workflow rõ ràng và metric đo lường được, chứ không phải một ý tưởng nghe thật "công nghệ".
-- Việc vẽ chi tiết workflow trước và sau giúp nhóm nhìn nhận rõ ranh giới (boundary) và những bước mà Rule/Script truyền thống có thể giải quyết tốt hơn AI.
+- Việc vẽ chi tiết workflow trước và sau giúp nhóm nhìn nhận rõ ranh giới và những bước mà Rule/Script truyền thống có thể giải quyết tốt hơn AI.
 - Không lạm dụng Agent khi một Workflow tuyến tính phối hợp giữa công cụ cấu trúc dữ liệu và LLM đã đủ giải quyết bài toán với rủi ro thấp nhất.
-- Luôn giữ vai trò con người làm chủ (human-in-the-loop): AI chỉ hỗ trợ tạo bản nháp (draft), người học vẫn phải review và tự học chủ động để không bị rỗng kiến thức.
+- Luôn giữ vai trò con người làm chủ: AI chỉ hỗ trợ tạo bản nháp, người học vẫn phải review và tự học chủ động để không bị rỗng kiến thức.
 
 Nếu làm lại:
 
