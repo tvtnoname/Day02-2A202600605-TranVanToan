@@ -20,11 +20,11 @@ Chấm điểm các ứng viên tiềm năng nhất (chọn đại diện tốt 
 
 | Candidate | Actor rõ | Workflow rõ | Pain có evidence | Impact đo được | Làm trong lab | So sánh R/W/A được | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| **Tổng hợp kiến thức Course+Note+GitHub** (Bạn A) | 5 | 5 | 5 | 5 | 5 | 4 | 5 | 34 |
-| **Paper Summarization** (Nam) | 5 | 5 | 4 | 5 | 5 | 5 | 4 | 33 |
-| **Làm sạch dữ liệu Excel** (Bạn B) | 4 | 5 | 4 | 4 | 4 | 5 | 4 | 30 |
-| **Root Cause từ System Logs** (Bạn B) | 5 | 5 | 4 | 5 | 3 | 4 | 3 | 29 |
-| **Phân tích Loss Curves** (Nam) | 4 | 4 | 4 | 3 | 4 | 3 | 4 | 26 |
+| **Tổng hợp kiến thức Course+Note+GitHub** | 5 | 5 | 5 | 5 | 5 | 4 | 5 | 34 |
+| **Paper Summarization** | 5 | 5 | 4 | 5 | 5 | 5 | 4 | 33 |
+| **Làm sạch dữ liệu Excel**  | 4 | 5 | 4 | 4 | 4 | 5 | 4 | 30 |
+| **Root Cause từ System Logs**  | 5 | 5 | 4 | 5 | 3 | 4 | 3 | 29 |
+| **Phân tích Loss Curves**  | 4 | 4 | 4 | 3 | 4 | 3 | 4 | 26 |
 
 Nhóm chọn: **Tổng hợp kiến thức Course+Note+GitHub**
 
@@ -73,7 +73,7 @@ Sử dụng script để lấy nội dung code chính và cấu trúc project Gi
 
 Nội dung workflow:
 
-```text
+```text Ví dụ:
 CURRENT STATE — 5 bước, 120 phút/chủ đề ôn tập
 
 [1 Đọc lại slide lý thuyết để nắm vững công thức toán: 20']
